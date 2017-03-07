@@ -1,0 +1,15 @@
+{
+  "name": "datefinder",
+  "version": "1.0.0",
+  "description": "to find date from texts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "author",
+  "license": "ISC",
+  "dependencies": {
+    "chrono-node": "^1.2.5"
+  },
+  "devDependencies": {}
+}
